@@ -5,16 +5,16 @@
 This university project analyses Australian crop production from 1989–2024 and investigates whether temperature and humidity patterns influence crop performance across states.
 
 The dashboard allows users to:
-	-	Compare crop yield trends over time by state
-	-	Visualise crop distribution across regions using a Sankey diagram
-	-	Analyse total production and farming area by crop type
-	-	Explore correlations between yield, temperature, and humidity
+-	Compare crop yield trends over time by state
+-	Visualise crop distribution across regions using a Sankey diagram
+-	Analyse total production and farming area by crop type
+-	Explore correlations between yield, temperature, and humidity
 
 ⸻
 
 ## 📦 Data Sources
-	- Australian Government — Department of Agriculture (Crop production reports)
-	- Kaggle Weather Dataset (regional temperature & humidity data)
+- Australian Government — [Department of Agriculture (Crop production reports)](https://www.agriculture.gov.au/abares/research-topics/agricultural-outlook/australian-crop-report)
+- Guarav Chauhan - [Weather in Australia Dataset on Kaggle](https://www.kaggle.com/datasets/gaurav896/weather-in-australia)
 
 Datasets were cleaned and structured in R before being visualised in Tableau.
 
