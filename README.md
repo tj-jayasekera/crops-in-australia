@@ -10,21 +10,17 @@ The dashboard allows users to:
 -	Analyse total production and farming area by crop type
 -	Explore correlations between yield, temperature, and humidity
 
-⸻
-
 ## 📦 Data Sources
 - Australian Government — [Department of Agriculture (Crop production reports)](https://www.agriculture.gov.au/abares/research-topics/agricultural-outlook/australian-crop-report)
 - Guarav Chauhan - [Weather in Australia Dataset on Kaggle](https://www.kaggle.com/datasets/gaurav896/weather-in-australia)
 
 Datasets were cleaned and structured in R before being visualised in Tableau.
 
-⸻
 
 ## Dashboard
 
 View the interactive dashboard on Tableau: [View Dashboard](https://public.tableau.com/app/profile/theekshana.jayasekera/viz/CropsinAustralia/Dashboard2)
 
-⸻
 
 ## 💡 Key Insight
 
