@@ -17,7 +17,7 @@ The dashboard allows users to:
 Datasets were cleaned and structured in R before being visualised in Tableau.
 
 
-## Dashboard
+## 📊 Dashboard
 
 View the interactive dashboard on Tableau: [View Dashboard](https://public.tableau.com/app/profile/theekshana.jayasekera/viz/CropsinAustralia/Dashboard2)
 
